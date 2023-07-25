@@ -89,5 +89,4 @@ while True:
         case 4:
             biudzetas.balansas()
         case 0:
-            print("Viso gero")
             break
